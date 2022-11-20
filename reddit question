@@ -1,0 +1,23 @@
+div class="column right columnhome">
+
+<img src="example.jpg" 
+	 
+	
+    <p> blah blah blah</p>
+   
+   </div>
+   
+   
+   
+   
+   ________________________________________
+   css under this line
+   
+   
+   
+   
+   .columnhome{
+	background-image: url("../images/photo4.jpg");
+	column-count:2;
+	
+    
